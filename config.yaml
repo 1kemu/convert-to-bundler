@@ -1,0 +1,8 @@
+pose_file_path: sample_intpu.csv
+output_dir: results
+images_dir:  # (optional)
+params:      # (optional)
+    f: 100
+    k1: 0
+    k2: 0
+ 
